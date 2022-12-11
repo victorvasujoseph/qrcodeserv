@@ -19,7 +19,7 @@
   "homepage": "https://github.com/victorvasujoseph/qrcodeserv#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.2",
     "qrcode": "^1.4.4"
   }
